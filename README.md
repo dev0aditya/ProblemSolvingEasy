@@ -1,6 +1,6 @@
 # ProblemSolvingEasy
 
-Solving Basic Problems of Number, Strings and Array
+Basic Problem of Number, Strings and Array
 
 ---
 
